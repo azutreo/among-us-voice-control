@@ -1,5 +1,4 @@
 # Among Us Voice Control
----
 Discord Bot that aids server managers with games of Among Us by automating the muting/unmuting of members in a voice channel.
 
 ### Prefix
