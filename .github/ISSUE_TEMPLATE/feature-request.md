@@ -1,7 +1,7 @@
 ---
 name: Feature Request
 about: Suggest an Idea for the Project
-title: "[SUGGESTION]"
+title: ''
 labels: enhancement
 assignees: nicholasforeman
 
