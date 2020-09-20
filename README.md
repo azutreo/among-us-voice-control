@@ -1,5 +1,5 @@
 # Among Us Voice Control
-Discord Bot that aids server managers with games of Among Us by automating the muting/unmuting of members in a voice channel.
+Discord bot that aids server managers during games of Among Us by automating the muting and unmuting of members in a voice channel.
 
 This bot is currently deployed on Heroku, hence the requirements.txt file.
 
